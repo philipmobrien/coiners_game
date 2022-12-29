@@ -4,68 +4,104 @@ format: html
 editor: visual
 ---
 
-Introduction
+## Introduction
+
 Trying your hand at escaping from Colditz Castle, the multi-national, maximum security prison during the Second World War, 1939 to 1945 may reveal aspects of your nature which you did not dream you possessed, as so often it did to the men imprisoned there.
+
 Reading through the supplementary information supplied in this booklet, should help you to recreate the atmosphere of Colditz Castle during the war.
+
 To play the game successfully requires both ingenuity and patience, as well as experience based on failure, and nerve and dash at the crucial moment. Some knowledge of the cards is essential.
-The Object of the Game
+
+## The Object of the Game
+
 One player takes the part of the German Security Officer; the other players take the part of an Escape Officer, each representing a different nation's Prisoners of War (PoW). Each Escape Officer attempts to achieve more successful escapes than his fellow Escape Officers, whilst the German Officer seeks to prevent, or limit, such escapes.
+
 Because the game is a simulation of conditions in Colditz it is virtually impossible to prevent a number of successfull escapes being achieved. In a typical game between six players, the PoWs will spend up to an hour collecting the equipment and escape kit necessary to make escape attempts; thereafter, escape attempts will be made frequently. 
+
 For new players we suggest a time limit of 2 1/2 hours for a game. The first Escape Officer to make two successful escapes will be the winner. Should this not be achieved, the German Security Officer will be the winner. With experience, players will set their own targets to suit the time available and number playing. All players must agree the "success formula" before play starts.
-Method
+
+## Method
+
 Players, in turn, throw the dice, and move their men. PoW teams aim to obtain Escape Kit and Escape Equipment, both essential to making an escape attempt. They may also collect Opportunity Cards. Depending on the types of equipment collected and Opportunity Cards held, each Escape Officer will then plan routes and execute the escapes of individual men in his team.
+
 The Security Officer, similarly, moves his men, collects Security Cards, and attempts to prevent escapes by arresting PoWs.
+
 Escape Officers may combine members of their respective teams if they wish and may employ false trails, distractions and bluffs to confuse and outwit the German Security Forces.
+
 An Escaper is deemed to have succeeded and to be 'gone away' when he reaches, safely, one of the targets outside the perimeters of the Castle as marked on the board. The exact score is not required providing he lands on or passes the target.
-The Equipment of the Game
+
+## The Equipment of the Game
+
 The Colditz Game Board is based on a true plan of Colditz Castle, but adapted to provide all the necessary rooms on one level. It consists of the Inner PoW Courtyard, coloured grey, and the outer Garrison Courtyard known as the Kommandantur.
-A Coloured Legend Diagram printed on the front inside cover of this booklet focuses on certain areas of the board and explains their purpose. On the back inside cover is the Appel (Roll Call) diagram for starting the game, depending on the number of players competing.
-Two Dice - These are used together for all throws.
-Forty Pawns - the PoWs; in groups of different colours representing the Escape Teams of various nationalities inprisoned in Colditz as follows.
-American Team - Blue - 8 PoWs
-British Team - Red - 8 PoWs 
-Dutch Team - Orange - 8 PoWs
-French Team - Brown - 8 PoWs
-Polish Team - Green - 8 PoWs
-Sixteen black pawns - the Guards, representing the German Security Officer's forces.
-Five packs of cards consisting of:
-5 Personal Civilian Escape Kit cards
-27 Escape Equipment cards
-45 Escaper's Opportunity cards
-14 German Security cards
-5 Do or Die cards
+
+- A Coloured Legend Diagram printed on the front inside cover of this booklet focuses on certain areas of the board and explains their purpose. On the back inside cover is the Appel (Roll Call) diagram for starting the game, depending on the number of players competing.
+- Two Dice - These are used together for all throws.
+Fo- rty Pawns - the PoWs; in groups of different colours representing the Escape Teams of various nationalities inprisoned in Colditz as follows.
+- American Team - Blue - 8 PoWs
+- British Team - Red - 8 PoWs 
+- Dutch Team - Orange - 8 PoWs
+- French Team - Brown - 8 PoWs
+- Polish Team - Green - 8 PoWs
+- Sixteen black pawns - the Guards, representing the German Security Officer's forces.
+- Five packs of cards consisting of:
+-     5 Personal Civilian Escape Kit cards
+-     27 Escape Equipment cards
+-     45 Escaper's Opportunity cards
+-     14 German Security cards
+    5 Do or Die cards
 96 Cards Total
-To Prepare For The Game
+
+## To Prepare For The Game
 Place the board on a good sized table, putting the five packs of Cards seperately, face downwards, off the board but conveniently placed for all the players.
+
 Escape Officers choose their nationalities. The German Security Officer may be elected by agreement or selected by throwing dice.
+
 Place the German Security Forces in the German Barracks as indicated on the board and the escape teams in the PoW's Courtyard in the following numbers: (See Appel diagram).
+
 For 6 players - Security Officer - 16 Guards, Escape Teams - 4 PoWs each
 For 5 players - Security Officer - 15 Guards, Escape Teams - 5 PoWs each
 For 4 players - Security Officer - 14 Guards, Escape Teams - 6 PoWs each
 For 3 players - Security Officer - 12 Guards, Escape Teams - 7 PoWs each
 For 2 players - Security Officer - 6 Guards, Escape Teams - 8 PoWs.
+
 All PoWs being lined up in the Inner Courtyard for a general Roll Call (Appel), the German Security Officer now places one Guard for each Escaping team on any of the black circles shown in the Inner Courtyard. He must also place at least 2, but not more than 7 Guards on black circles shown in the Outer areas of the Castle. His remaining Guards are held in reserve in the German Barracks in the Kommandantur area.
-To Play The Game
+
+## To Play The Game
+
 The Escape Officer immediately to the left of the Security Officer is the first to play. He throws his two dice and moves his PoWs in any direction from one adjacent circle to another, counting one digit for each circle. The other Escape Officers throw in turn and then the Security Officer. PoWs and German Guards therefore move about the board on the circles shown in various directions according to the dice throws, rules of the game and intentions of the Escape Officers. There is thus a continual movement of men, of ebbing and flowing, which animates and brings 'life' to the Castle.
+
 Throwing a double entitles that player to another throw. His score is totalled before he moves.
+
 Any number of PoWs in a team may be moved to the total of the throw; e.g. a throw of 8 entitles the Escape Officer to move one of his men 8 circles or one 3 circles and another 5 circles, or any other combination he wishes.
+
 A throw of 3, 7 or 11 entitles an Escape Officer to take an Escaper's Opportunity Card or the German Security Officer to draw a Security Card from the German Security Pack. After drawing a card the Escape Officer or Security Officer moves his men in accordance with the throw of 3, 7 or 11.
+
 No PoW or German can pass through or over another man. He must go around or move him in accordance with the rules. See Do Or Die, Staff Car and Tunnel rules.
+
 The total number of a dice throw need not be used.
+
 Safe Areas (See Legend Diagram) may be used by all PoWs reaching them by dice thrown in their turn.
+
 The term 'move directly' means, in all cases, without counting dice throws.
+
 Opportunity Cards may be played at once or held in the hand. An Escape Officer may only hold a maximum of three Opportunity Cards at any time. If an Escape Officer draws a fourth he must use one of the four on that turn. He may, however, elect to discard one without using it or he may exchange it with another Escape Officer or even give it away. Opportunity Cards in general may be used only during a turn (except for special exceptions Arrest Key, Pass Holder, Advance Warning of Appel, Search, Talisman and Hideaway) after which they should returned to the bottom of the pack.
+
 Security Cards are drawn and held likewise by the German Security Officer. Only three may be held at one time and the same rules apply as for Opportunity Cards.
-Escape Equipment Cards are obtained by placing two PoWs in each room where the required equipment symbols are shown. Alternatively, one PoW may be placed in each of two rooms containing the appropriate symbols. After claiming Equipment, both PoWs must move directly to the Appel area. Equipment may also be obtained from Opportunity Cards.
+
+Escape Equipment Cards are obtained by placing two PoWs in each room where the required equipment symbols are shown. Alternatively, one PoW may be placed in each of two rooms containing the appropriate symbols. After claiming Equipment, both PoWs must move directly to the Appel area. Equipment may also be obtained from 
+
+Opportunity Cards.
 Any equipment obtained is held by the Escape Officer and not by an individual PoW. Also, once a piece of equipment is obtained all PoWs of that nation are liable for arrest irrespective of which PoWs obtained the equipment.
 A Personal Civilian Escape Kit Card must be held by an Escape Officer and displayed when one of his PoWs reaches an Escape Target. It is a precondition for a successful escape, however, an Escape Officer may collect the Kit at at any time during the game at his discretion, according to the following rules. The Escape Kit consists of Civilian Disguises, Magnetic Compass, Food, false documents, maps, and money (Reichmarks). For the purpose of this game, documents, maps and money have been combined together, providing a total of four components to be collected.
 This Kit may be obtained:
 by placing one PoW in each of the rooms containing the symbols Disguise, Compass, Food and Documents. When the PoWs are in position simultaneously the Escape Kit Card may be claimed.
 through Opportunity Cards. These may be held in secret and used when required. They may also be exchanged for an Escape Kit Card if all four components of the Escape Kit are held. The Opportunity Cards are then returned to the bottom of the pack.
 by a combination of method 1) and 2)
+
 The Escape Kit Card once obtained is held for the duration of the game and never surrendered. PoWs do not return direct to the Appel area after obtaining kit.
-The Game In Progress
-The Security Officer
+
+## The Game In Progress
+### The Security Officer
 
 Watching carefully what the PoWs are doing, upon his turn and having thrown the dice, moves his men similarly to the Escape Officers, circle to circle, up to the total dice throw. He may;
 Post more Guards but only on the vacant black circles, from his reserve in the Kommandantur: as many as he wishes up to the total number of this throw. Each guard so moved counts as one digit off the dice score. In a dangerous situation he may also choose to employ all his reserves. This was known as calling out the 'Riot Squad'.) New guards must be posted before any arrests are made and not after arrests. Guards cannot be reposted in that turn after making arrests.
@@ -73,7 +109,8 @@ Remove Guards to the German Barracks if he wishes, but only from black Guard cir
 Arrest a PoW anywhere in the Prisoner's Courtyard (grey) area (except inside a Tunnel, in a safe area or in a room) by moving a guard on to his circle (not necessarily the exact throw of the dice) and providing the Escape Officer holds an Equipment Card. The PoW is sent directly to a Solitary Confinement Cell chosen by the Security Officer and the Guard returned directly to barracks. No equipment card is confiscated.
 Arrest a PoW outside the courtyard by moving onto his circle. Whether or not the PoW holds equipment, the PoW is sent to Solitary and the guard to barracks as above. The Escape Officer must surrender one piece of any equipment he may hold. The choice of card is his and it is returned to the pack.
 Arrest more than one PoW, but he can only arrest one PoW per Guard in a turn.
-Prisoners of War
+
+### Prisoners of War
 
 PoWs cannot be arrested on white Appel circles.
 PoWs can stop on black circles and my be arrested on them, subject to the arrest rules.
@@ -89,28 +126,33 @@ The Guards
 Guards cannot enter rooms unless the relevant 'Search Card' or 'Appel Card' is played by the security officer in his turn.
 Guards cannot block entrances to rooms and must not impede the movement of PoWs inside the grey prison courtyard area by remaining in doorways or passages between turns.
 When giving chase over walls or through wire a guard must use the same route as the escaping PoW. He must return directly to barracks either when the PoW reaches his target or when he makes an arrest or shoots to kill.
-The Cards
+
+## The Cards
 
 Cards may be drawn, employed or discarded only during a player's turn except for Arrest Key, Pass Holder, Advance Warning of Appel, Search, Talisman or Hideaway.
 All cards when employed, discarded or confiscated are returned to the bottom of their respective packs. They cannot be held for repeated use.
 The bartering or exchange of cards is permitted between Escape Officer's at any time.
 An Equipment Card may benefit any number of PoWs of a team during the turn in which it is used, provided only that the dice throw and free circles allow their movement and rule 23 is observed.
-Do or Die
+
+### Do or Die
 
 Provided his Escape Officer holds an Escape Kit card, a PoW can, in his turn, make a 'Do or Die' Escape. The Escape Officer takes the top card from the face-downwards Do Or Die pack. The card will say how many throws the PoW has to make the attempt. Starting from anywhere within the light grey coloured prisoners area, including rooms and requiring no equipment, the PoW runs out through the Garrison Courtyard and buildings crossing the moat. Guards in his path cannot stop him. Failure to reach a target means the prisoner is shot dead and the whole team is out of the game. Opportunity Cards are not claimed on throws of 3, 7 or 11.
-Staff Car
+### Staff Car
 
 A PoW may only use the Staff Car if he holds the relevant Opportunity Card and reaches the car by dice throws in his turn(s) giving up necessary equipment en route.
 Guards posted on the route of the Staff Car must stand aside. No pass is required at the main gate.
-Tunnel 
+
+### Tunnel 
 
 Tunnels can only be occupied when the Escape Officer holds the appropriate Tunnel card which he must show when challenged. He must return it to the bottom of the pack after either detection or the completion of it's escape use. His team may be composed of different nationalities.
 At least two PoWs must occupy the tunnel at all times.
 Tunnellers are exempt from Appel at all times.
 The Tunnel can only be entered by Guards and the tunnellers removed if the Security Officer plays the Tunnel Detected card in his turn and follows its instructions. These are: Two Guards must move to the tunnel by dice count, entering it anywhere. The tunnellers are removed directly to Solitary and both Guards return directly to Barracks.
 Guards and PoWs not occupying tunnels may proceed over tunnels but not along them and may step over or around PoWs in Tunnels. They cannot, however, remain over Tunnels. He may move across it or stop short of it. 
-Diversion and High Command Inspection Cards
+
+### Diversion and High Command Inspection Cards
 
 When an Escape Officer plays either of these cards he may choose which sentries are returned directly to Barracks.
-Conclusion
+
+## Conclusion
 The German Security Officer, for obvious reasons is in charge of the board and of discipline. If he discovers any infringement of the rules he can send the PoW concerned to Solitary. He will either rise to the challenge of controlling the castle or be manipulated by the PoWs. 
