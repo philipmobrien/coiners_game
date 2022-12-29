@@ -1,0 +1,76 @@
+---
+title: "Notes on cards"
+format: html
+editor: visual
+---
+
+Hi Graham,
+
+I know this is a slightly old post, but i only came across it the other day, and as i've been playing Escape From Colditz for a long time, I thought I'd post a reply anyway!  
+
+There is a clarification here to ALL your BOLD questions... 
+
+All these rules clarifacations are based on the rule book from the Gibson version of Colditz...
+
+
+Hideaway
+
+#4 Confiscation of equipment card is the Escapers choice. (Rule 34, d)
+
+Inspection By German High Command
+
+#1 The Escaper chooses which two Guards return to barracks. (Rule 54)
+
+Move Fast
+
+#6 Yes. The card does not specify a starting point for the POW, so with the exception of Solitary, the POW can be anywhere on the board before 'moving fast'. (but consider all the equipment you'd be possibly using to make the move!...it would be 'cheaper' to get arrested (ie. You'd only loose 1 epuipment card for getting arrested).
+
+Release From Solitary
+
+#2 Yes. Once it is the Guards turn a;; POW's are fair game, following the normal rules for arresting POW#s of course.
+
+Sabotage
+
+#1 The rules do not specify whoses choice it is, but it is generally considered to be the choice of the Guard player (in the same vein as the Escaper chooses which equipment is surrendered when arrested).
+
+Tunnel
+
+#2 The rules say 2 POW's must occupy the tunnel at all times. It is therefore fair to assume that a tunnel with only 1 POW at the end of a players turn is no longer considered an 'open' tunnel! No more POW's can enter the tunnel, and the last remaining POW in the tunnel can exit from either end on your next or subsequent turns.I've been playing Colditz for over 20 years, and that's how we plat it, though this is one of the many things that is a grey area in the rule book.
+
+#4 You mention here that POW#s of other nationatities can enter a tunnel “at the descretion” of the player who holds the card... This is a grey area in the rules! Rule 53 says “may be composed of different nationalaties”... This could be interpreted in 2 ways :- firstly, as you said, (ie. You need permission from the card holder to enter the tunnel), or secondly, once the tunnel is open, anyone can use it. We play it the second way! I suggest make it clear to all Escapers before the game starts which way you're playing it.
+
+#6 The dectection of a tunnel happening automatically on the emergence of the first POW is not actually in the rules! But we also play it as you mentioned (we feel it gives the Guards a fairer chance!). I only mention it here as you said you were at the top of your post that you were trying to assemble a definitive rule set and this auto-dectection is not in the rules! Though in my opinion, it should be!
+
+#8 This is not mentioned in the rules, but if you consider the Arrest Rules... apply these accordingly (ie. If arrested in the Chapel end of the Chapel tunnel, then no equipment card is surrendered as the POW is in the light grey area; but if the POW in outside the light grey area, then an equipment card is surrendered... that implies that one card per POW arrested is lost.
+
+#9 The tunnel card is returned to the bottom of the deck upon dectection or completion of the escape attempt (Rule 53).
+
+#10 Yes. Guards are always returned to barracks after an arrest (again Rule 53). (The exception is arrests make as a result of an Appeal or Search card being played!) 
+
+#11 As mentioned in Rule 46, Guards can follow Escapers as long as they follow the same route... Also to arrest Tunnellers, the German Player needs to move 2 Guards into any of the tunnel spaces. Therefore, if you combine these two things, it is safe to assume the Guards can enter a detected tunnel (at any point) and then pursue Escapers along it! … This is only fair too (and it's how we have always played it!) … Because if Guards can not pursue POW's through tunnels, then it is not possible to capture Escapers who have exited the Chapel tunnel as the tunnel ends outside the wire fence!!!
+
+Appel (Roll Call)
+
+#6 As stated in Rule 38, POW's outside the entire castle walls/fence are not reuired to return to Appel. That means they do not have to, but can if they wish. Also, the Appel Card says “If any prisoner takes the risk of not attending...” and “...Any prisoner within dice range of any guard...”. I think it is clear from this wording that any prisoner not attending Appel can get arrested if within range of a guard (with the exception of POW's in tunnels, cells, or blue safe areas). 
+
+Arrest Key/Pass Holder
+
+#4 If you hold 2 or more Pass/Key cards, then yes, you would be able to use them if you have pips remaining (obviously with a different POW – as the first is now in solitary!) 
+Also, Rule 47 states that “... all cards when employed, are returned to the bottom of their respective deck. They are not held for repeated use”. So, the Security Card is a once use only card, and second and subsiquent POW's (if they have a Pass/Key card) can move through the check point unimpeeded. (The exception to cards being one use only are equipment cards which stay in play for the entirety of a players turn).
+
+Shoot To Kill
+
+#7 Shooting around corners?! Hmmmm!..... Under the actual rules, if gives no “only if conditions” to shooting to kill – only the distance between the guard and POW is considered! If the Guard rolls high enough, the POW is dead. Simple! … This of course creates another grey area in the rules! Decide before the game which way to play it, that's the simplest thing to do. We use common sense, based roughly in what you mention, with the exception of shooting around corners (that technology was not around in the 1940's!!! it not even around today – I think!)
+...We try and look at the situation from a “real world perspective” to decide if the guard has line-of-sight before taking the shot!
+
+Tunnel Detected
+
+#1 Again, as with Card 16, #6, auto-detection of a tunnel with the emergence of the first escaper is not actually in the rules, but it is how we play it too! 
+
+#8 Again as with my replies to Card 16 #8, loss of equipment is one per POW, but depends on where the POW is when assested. 
+
+#9 The tunnel card is returned to the bottom of the deck (Rule 53).
+
+#10 The two Guards are returned to barrecks (again (Rule 53).
+
+#11 Again, see my reply to Card 16 #11. Guards can follow escapers through tunnels, as this is a fair interpretation of the rules for following Escapers, and in the case of the Chapel tunnel, if Guards are not allowed to follow through the tunnel, there is no way for Guards to actively chase Escapers from this tunnel!

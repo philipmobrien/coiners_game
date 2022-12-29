@@ -36,21 +36,22 @@ The Colditz Game Board is based on a true plan of Colditz Castle, but adapted to
 
 -   A Coloured Legend Diagram printed on the front inside cover of this booklet focuses on certain areas of the board and explains their purpose. On the back inside cover is the Appel (Roll Call) diagram for starting the game, depending on the number of players competing.
 
--   Two Dice - These are used together for all throws. Fo- rty Pawns - the PoWs; in groups of different colours representing the Escape Teams of various nationalities inprisoned in Colditz as follows.
+-   Two Dice - These are used together for all throws.
+- Forty Pawns - the PoWs; in groups of different colours representing the Escape Teams of various nationalities inprisoned in Colditz as follows.
 
--   American Team - Blue - 8 PoWs
+  - American Team - Blue - 8 PoWs
 
--   British Team - Red - 8 PoWs
+  - British Team - Red - 8 PoWs
 
--   Dutch Team - Orange - 8 PoWs
+  - Dutch Team - Orange - 8 PoWs
 
--   French Team - Brown - 8 PoWs
+  - French Team - Brown - 8 PoWs
 
--   Polish Team - Green - 8 PoWs
+  - Polish Team - Green - 8 PoWs
 
--   Sixteen black pawns - the Guards, representing the German Security Officer's forces.
+  - Sixteen black pawns - the Guards, representing the German Security Officer's forces.
 
--   Five packs of cards consisting of:
+- Five packs of cards consisting of:
 
     -   5 Personal Civilian Escape Kit cards
 

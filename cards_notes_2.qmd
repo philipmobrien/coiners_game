@@ -1,0 +1,270 @@
+---
+title: "notes on cards 2"
+format: html
+editor: visual
+---
+
+I'm trying to come up with my own definitive ruleset, and have spent ages trawling through the various Q&A's on BGG. I still have some items outstanding - can anyone help?
+
+First of all, I have listed the Opportunity and Security Cards and transcribed their text. I have then set out beneath each one how I think it should be handled in as comprehensive a way as I could manage.
+
+Areas where I don't know the answer are in bold.
+
+Please read through and post any amendments, corrections, clarifications and answers you think are necessary. Also, feel free to challenge any interpretation I have given if you disagree with me.
+
+Opportunity Cards
+
+Advance warning of Search
+
+2 cards.
+
+Quote:
+This card allows an Escape Officer to move any or all of his team to safe areas marked blue on the board by any conventional route giving up equipment as required.
+
+Each nationality had an organised system of ‘stooging’ by POW’s to forestall sudden movement by the German Security Officers.
+d10-1 This card can only be played in response to an Appel or Search card.
+d10-2 The pawns are picked up and placed in any pale blue (safe) spot anywhere on the board. This includes the areas outside the castle. Dice are not rolled for this movement.
+d10-3 If a pawn would have to pass through a controlled space (for example a ‘Pass’ or ‘Key’ spot) in order to reach the safe spot, the appropriate piece of escape equipment must be used.
+
+Bribe a Sentry
+
+5 cards
+
+Quote:
+By playing this card an escaper may draw any one equipment card he chooses.
+
+In the beginning sentries were virtually incorruptible. It was only when the tide turned in the latter part of the war that POW’s were able to barter their tobacco, tinned food, chocolate and coffee for escape necessities.
+d10-1 The piece of escape equipment is selected, and not drawn randomly.
+d10-2 If there are no more pieces of a particular type of escape equipment left, that type cannot be selected. So for instance, if a player wants rope, but there are no more rope cards left, the player cannot gain rope and must choose another type of escape equipment.
+
+Diversion
+
+2 cards
+
+Quote:
+This card allows an escaper to divert one chosen sentry by having him returned to the barracks in the Kommandantur.
+
+An important element in the art of escaping was the ability to distract sentries at the right moment.
+d10-1 This card may be played at any time, including the German’s turn.
+d10-2 The sentry is chosen by the Escaping Officer, not by the Security Officer.
+
+Escape kit (part)
+Compass and food.
+
+2 cards
+
+Quote:
+This card can be used as part of the escape kit essential for survival in enemy territory.
+
+Compass: Needles were magnetised by placing them in a direct current solenoid connected to the Castle electricity mains supply.
+Food: Reserves of non-perishable food required for escapers were built up by POW’s going on short rations.
+d10-1 This card represents two pieces of the Personal Civilian Escape Kit.
+d10-2 The two pieces of the Escape Kit which this card supplies are as indicated by the artwork. So the card with compass and food on it supplies those items only, and cannot be used to supply either documents or disguise.
+d10-3 This card may be combined with Escape kit (part): Documents and disguises to gain a complete Escape Kit.
+d10-4 To gain an Escape Kit using this card, a player would need to place two pawns in rooms providing documents and disguises (one in each) at the same time, and surrender this card.
+
+Escape kit (part)
+Documents and disguises.
+
+2 cards
+
+Quote:
+This card can be used as part of the escape kit essential for survival in enemy territory.
+
+Documents and maps: Were duplicated by jelly process using indelible pencil lead ground to make ink.
+Reichmarks: Were smuggled in private parcels, gramophone records and books.
+Clothes: Disguises were made.
+d10-1 The same as above.
+
+Hideaway
+
+5 cards
+
+Quote:
+This card entitles an escaper to exemption from confiscation of any of his equipment during a search or when arrested by a Security Officer.
+
+Escape equipment had to be hidden sometimes at very short notice. Good hideaways varied from a hollow army button containing a compass to a secret room containing German uniforms and hundreds of feet of rope.
+d10-1 This card is played in response to an arrest.
+d10-2 Escape equipment is not confiscated when a POW is arrested inside the castle, although the POW would still go to solitary if the player has a piece of escape equipment. Therefore this card does not need to be played when the POW is arrested inside the castle.
+d10-3 When a POW is arrested outside the castle, this card prevents the confiscation of a piece of escape equipment. The POW will still be taken to solitary.
+d10-4 Is the confiscation random, selected by the Escape Officer or selected by the Security Officer?
+
+Inspection by German High Command
+
+Quote:
+This card allows an escaper to have two sentries returned to the barracks in the Kommandantur by the Security Officer.
+
+There were frequent visits by high ranking army officers as well as the Gestapo. No opportunity was lost to make use of these visits either for escape or counter propaganda.
+d10-1 Who selects which sentries? The phrase “by the Security Officer” implies it is the Security Officer who decides which two.
+
+Key Card
+
+2 cards
+
+Quote:
+This card may be exchanged at any time for a Key Card.
+Move Fast
+
+Quote:
+This card allows an escaper to move directly to Location.
+8 cards (various locations)
+
+d10-1 Only one POW is moved by this card.
+d10-2 The pawn is picked up and moved directly. The dice are not thrown for this movement.
+d10-3 If a pawn would need to pass through a controlled spot (one marked by a Pass or Key, for example), the appropriate piece of equipment would need to be surrendered, with one exception.
+d10-4 The exception to point 3 above is when a POW has been released from solitary outside the Castle, and is on its way back inside.
+d10-5 This card cannot be used to move a POW out of solitary.
+d10-6 Can this card be used on POWs which are outside the Castle? For example, to avoid arrest could this card be played to allow a POW to move back into the Castle.
+
+Pass Card
+
+2 cards
+
+Quote:
+This card may be exchanged at any time for a Pass Card.
+Release from Solitary
+
+5 cards
+
+Quote:
+This card allows an escaper to move out of Solitary to the nearest free circle outside the cell.
+
+Cells were about 10 ft. square containing a board bed, table, chair and bucket, a tin jug and basin. POW’s sentenced to Solitary often exceeded the number of cells available so that frequently cells were shared.
+d10-1 If the indicated circle is occupied by another pawn, the released POW is placed on an adjacent empty spot at the discretion of the Escape Officer.
+d10-2 Can the pawn be immediately re-arrested?
+d10-3 Pawns released from the block of cells outside the castle are immune from arrest as long as they are making their way back into the castle. They do not need to use an equipment card to enter the castle.
+
+Rope Card
+
+2 cards
+
+Quote:
+This card may be exchanged at any time for a Rope Card.
+Sabotage
+
+Quote:
+This card allows an escaper to force a Security Officer to discard two of his security cards and draw one new card only.
+
+One of the few ways for POW’s to wage war within Colditz was by acts of sabotage. These ranged from putting razor blades in swill buckets which were distributed to pig farms, to cultivating dry rot in the constructional timbering in the castle.
+d10-1 Who chooses which cards are discarded? Are they random or selected by the Security Officer?
+
+Staff Car
+
+Quote:
+By placing a POW on the staff car (marked on the board) and playing this card, an Escape Officer may throw his dice six times and use the total score to ‘drive’ out through the main gate. Doubles permit an extra throw. If he reaches a target he has escaped successfully; if not he is sent to Solitary.
+d10-1 This card only works for one POW at a time. That is, only one POW can sit in the Staff Car.
+
+Talisman
+
+Quote:
+This lucky talisman may be played after a Security Officer has played his ‘shoot to kill’ card and thrown the dice; it reduces his double score to that of his original throw.
+
+It was common amongst men on active service particularly in the most dangerous situations to carry a lucky talisman.
+Tunnel (Canteen)/(Chapel)/(Theatre)
+
+Quote:
+By playing this card, the Escape Officer is entitled to use the Room tunnel, once played the tunnel must be manned at all times by a minimum of two POW’s. Men occupying the tunnel are exempt from arrest and appel.
+
+Canteen: This British tunnel began in a dis-used sewer under the canteen and came up with a special trapdoor in the grass terrace on the eastern side of the Kommandantur.
+
+Chapel: This intricate tunnel was engineered by the French contingent and had vertical and horizontal shafts equipped with electric lighting. Trolleys and lifts were used for the removal of debris.
+
+Theatre: This tunnel made use of the outfall sewer from the POW courtyard and had its exit in the ramparts of the Komandantur.
+d10-1 Once played, this card allows the player concerned to move his/her POWs into the start of the tunnel which begins in the Room.
+d10-2 Two POWs must remain in the tunnel at all times. What happens if only one POW is left in the tunnel?
+d10-3 Further POWs can enter the tunnel during future turns.
+d10-4 The POWs of other players may enter the tunnel at the discretion of the player who played the tunnel card.
+d10-5 POWs in the tunnel are immune from the effects of the Appel and Search cards.
+d10-6 The tunnel can be discovered by the Security Officer by playing the Tunnel Detect card, or when the first POW emerges, which has the same effect. In both cases two German Sentries must be moved onto tunnel spaces anywhere along it’s length to close the tunnel.
+d10-7 When the tunnel is detected and two German Sentries have been moved into the tunnel (at any point – the tunnel has been discovered so the sentries could dig down to find it) All occupants of the tunnel are arrested and sent to solitary.
+d10-8 Is a piece of escape equipment confiscated in these circumstances? Is it 1 piece per player or 1 piece per POW?
+d10-9 Is the tunnel card put back into the pack of Opportunity Cards or removed from the game?
+d10-1d10-0 Are the two German Sentries returned to barracks?
+d10-1d10-1 Can German Sentries follow through the tunnel to pursue any escapers who have exited the tunnel?
+
+Wirecutter Card
+
+Quote:
+This card may be exchanged at any time for a Wirecutter Card.
+Security Cards
+
+Appel (Roll Call)
+
+2 cards
+
+Quote:
+This card allows the Security Officer to call an Appel. All POW’s are lined up in the courtyard as at the opening of the game (see diagram).
+
+If any prisoner takes a risk by not attending, the Security Officer may make a general search by throwing the dice. Any prisoner within the dice range of any guard is sent directly to the solitary cells. Only escapers in tunnels and safe areas are excluded.
+d10-1 Escape Officers decide which POWs to send back to the white Appel area in the Inner Courtyard.
+d10-2 POWs in tunnels or on blue safe spots are excluded.
+d10-3 All POWs who are not in tunnels, safe areas or the white Appel zone, who are within the dice range of any guard are sent to solitary.
+d10-4 The German Sentries are not moved, or returned to Barracks when making arrests.
+d10-5 Each German Sentry may arrest any number of POWs.
+d10-6 What about POWs in the outer courtyard or outside the wire fence? Are they immune from these effects? If a POW was outside the castle making an escape, decided to risk not returning for an Appel but was within dice range of a pursuing Sentry, would they be arrested and sent to Solitary?
+
+Arrest Key Holder/ Arrest Pass Holder
+
+1 card of each
+
+Quote:
+This card may be employed against any escaper caught using a key/pass. The escaper is removed to Solitary and his key/pass is confiscated.
+d10-1 This card is used by the Security Officer when an Escape Officer moves his/her POW onto a Key/Pass spot and plays a Key/Pass card. The Key/Pass fails to work and the POW is sent to solitary.
+d10-2 The Security Officer does not have to send an arresting Sentry back to barracks to make the arrest.
+d10-3 The Key/Pass card is used and put at the bottom of the Opportunity Cards deck.
+d10-4 If the Escape Officer has movement pips remaining and another Key/Pass card, would they still be able to move through the Key/Pass spot and surrender a second Key/Pass card? Does the Arrest Key/Pass Holder card remain in force for the entirety of the Security Officer’s turn?
+
+Search the Room
+
+9 cards. Various locations.
+
+Quote:
+This card allows the Security Officer to search this area, sending to Solitary any escaper found there, providing he holds an equipment card. One equipment card is confiscated for each POW arrested.
+
+The chapel was used for religious services by all denominations in turn. The sacristy was also used as a cover for a look-out (stooge) for the famous French tunnel.
+
+The carborundum tipped dentist drills were used secretly for making keys and escape tools.
+
+The Guardhouse was occupied at all times by at least 20 armed guards who could be turned out at 30 seconds notice.
+
+The most that ever came out of this kitchen was potato soup, acorn coffee and linden tea.
+
+A small contingent of French, Polish and British NCO’s and Privates were quartered here. They carried out kitchen and cleaning duties; many of them played vital roles in the escape organisation.
+
+On arrival at Colditz each POW was stripped naked and ordered to the showers. Meanwhile, their clothing and personal belongings were passed through the delousing boiler.
+
+The sickbay had room for 20 patients and was supervised by one German and one Allied army doctor and 3 orderlies. Medicine and drugs were in short supply.
+
+In the stores were kept black bread, margarine and potatoes which were issued daily.
+d10-1 The Security Officer does not need to move any sentries to the room concerned.
+d10-2 POWs in a tunnel are immune from arrest.
+d10-3 If there is a tunnel leading out from the room, the tunnel is not detected.
+d10-4 All POWs in the room (apart from those in a tunnel, if appropriate) are at risk of arrest if the Escape Officer has escape equipment. The POWs are not arrested if the Escape Officer does not have any escape equipment.
+d10-5 As any arrests take place inside the castle, no Escape Equipment is confiscated.
+
+Shoot to kill
+
+Quote:
+This card allows the Security Officer to fire on any prisoner on the run outside the castle walls. Having played the card, the Security Officer throws the dice and doubles the score. A double permits a further throw. If the prisoner is within range of his score, he is ‘shot dead’ and removed from the board.
+
+The German Wehrmacht usually showed restraint in using firearms.
+d10-1 The Security Officer can only shoot one escaping POW. This card does not allow the Sentry to shoot all escaping POWs in range.
+d10-2 The POW must be outside the castle for this card to be played. The Sentry need not be.
+d10-3 Range is determined by counting spots in the same way as for movement.
+d10-4 POWs may be shot through barbed wire fence.
+d10-5 POWs may be shot from an elevated position (when one or other token is separated from the other by a spot requiring the use of a Rope card, but only if line of sight can be reasonable established. Think Sentry firing down from a window, or POW silhouetted against the moon. This is not possible if either pawn were not standing on an edge.
+d10-6 POWs may not be shot through an obstacle requiring a Rope card to navigate.
+d10-7 POWs may be shot round corners (this is an abstract representation of line of sight).
+
+Tunnel Detected
+
+Quote:
+This card allows the Security Officer to break into a tunnel. All tunnellers are removed to Solitary.
+d10-1 Any tunnel can be discovered by the Security Officer by playing the Tunnel Detect card, or when the first POW emerges, which has the same effect. In both cases two German Sentries must be moved onto tunnel spaces anywhere along it’s length to close the tunnel. That is, they might discover the entrance, the exit, or dig down into the tunnel somewhere along it’s path.
+d10-2 A tunnel can only be detected when it is in use.
+d10-3 Playing this card allows the Security Officer to discover a tunnel by moving two Sentries into it. It does not discover the tunnel on its own.
+d10-7 When the tunnel is detected and two German Sentries have been moved into the tunnel (at any point – the tunnel has been discovered so the sentries could dig down to find it) All occupants of the tunnel are arrested and sent to solitary.
+d10-8 Is a piece of escape equipment confiscated in these circumstances? Is it 1 piece per player or 1 piece per POW?
+d10-9 Is the tunnel card put back into the pack of Opportunity Cards or removed from the game?
+d10-1d10-0 Are the two German Sentries returned to barracks?
+d10-1d10-1 Can German Sentries follow through the tunnel to pursue any escapers who have exited the tunnel?
